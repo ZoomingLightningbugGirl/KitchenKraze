@@ -27,7 +27,7 @@
     width:550px;
   }
   .MainBodyofPage {
-    background-color: rgb(178, 184, 223);
+    background-color: rgb(144, 238, 144);
   }
   .chewy-regular {
     font-family: "Chewy", system-ui;
@@ -48,7 +48,7 @@
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: rgb(254, 254, 254);
+    color: rgb(191, 238, 144);
   }
   .BannerLink {
     color: rgb(255, 255, 255);
@@ -76,7 +76,7 @@
     font-style: normal;
   }
   body {
-    background-color: rgb(77, 88, 160);
+    background-color: rgb(203, 242, 165);
   }
   p {
     font-size: large;
